@@ -5,12 +5,12 @@ This project is a pixel-game in which the user controls a rocket that must evade
 The objective is to survive as long as possible and achieve the highest score. The game features a scrolling space background, a rocket that can be moved in four directions, and randomly generated asteroids.
 
 ## Project Structure:
-    - project.py
-    - test_project.py
-    - requirements.txt
-    - README.MD
-    - audio
-    - graphics
+- project.py
+- test_project.py
+- requirements.txt
+- README.MD
+- audio
+- graphics
 
 ## Libraries:
 **Pygame**: This library is for creating 2D games in Python. It provides various functionalities for game development, including handling graphics, sound, input events, etc. To install Pygame, you can use the following command: **pip install pygame**
